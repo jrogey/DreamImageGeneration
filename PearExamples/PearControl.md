@@ -1,4 +1,4 @@
-[Home](../README.md) > [Pear Examples](./Terms)
+[Home](../README.md) > [Pear Examples](./Terms.md)
 
 Control to see the base images in many of the styles offered.
 

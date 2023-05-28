@@ -160,6 +160,7 @@ Actual input: `Pear`.
 5/27/2023
 
 ## Figure v2
+
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112161857407553606/151D0481-B0FC-49FE-834A-A1CD7E4308E6.jpeg)
 
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112161857759887451/C12E9C68-ECE7-4AE6-A0F4-07F292BC67C6.jpeg)

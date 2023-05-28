@@ -50,17 +50,17 @@ Actual input: `Pear, majestic`.
 
 ## Anime v2
 
-![]()
+![](https://cdn.discordapp.com/attachments/1112156813492752404/1112219703465746513/11AC55D3-70E3-4E66-9405-6D3A7244A66E.jpeg)
 
-![]()
+![](https://cdn.discordapp.com/attachments/1112156813492752404/1112219703792894104/54222E76-F5B3-4C8C-B113-0B1274A8DA82.jpeg)
 
-![]()
+![](https://cdn.discordapp.com/attachments/1112156813492752404/1112219704149418004/E7F3380E-656E-46C5-8F77-E6B2DFF4063F.jpeg)
 
-![]()
+![](https://cdn.discordapp.com/attachments/1112156813492752404/1112219704505925744/13B3CE9E-7BCA-4570-85C4-68F4E8CE5310.jpeg)
 
 [Back to top](#contents).
 
-DATE
+5/27/2023
 
 ## Blues v2
 

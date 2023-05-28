@@ -4,6 +4,8 @@ Control to see the base images in many of the styles offered.
 
 Actual input: `Pear`.
 
+## Contents
+
 - [Abstract Fluid v2](#abstract-fluid-v2)
 - [Anime v2](#anime-v2)
 - [Blues v2](#blues-v2)
@@ -42,6 +44,8 @@ Actual input: `Pear`.
 
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112169221590360144/08C8B372-37E9-4FFA-BAF0-6758F52B5FB7.jpeg)
 
+[Back to top](#contents).
+
 5/27/2023
 
 ## Anime v2
@@ -53,6 +57,8 @@ Actual input: `Pear`.
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112175761844088872/AA69FE48-16F5-446B-8B8F-89E5FF412BCF.jpeg)
 
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112175762376773692/120EDB3A-BA20-4A50-984E-3556C765D83C.jpeg)
+
+[Back to top](#contents).
 
 5/27/2023
 
@@ -66,6 +72,8 @@ Actual input: `Pear`.
 
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112180760267472916/A747EE65-7C73-4D75-BDCD-CCB0A451FE7B.jpeg)
 
+[Back to top](#contents).
+
 5/27/2023
 
 ## The Bulio Cut
@@ -78,6 +86,8 @@ Actual input: `Pear`.
 
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112172195033124974/1C759F16-AE3F-491E-9F76-0234D4EF9926.jpeg)
 
+[Back to top](#contents).
+
 5/27/2023
 
 ## Buliojourney v2
@@ -88,6 +98,8 @@ Actual input: `Pear`.
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112159943076872262/5D428B6F-E58B-42F3-B323-DA05BFAD9906.jpeg)
 
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112159943471140965/AA6FA2D8-F3ED-476E-BC70-65F6F21D40E6.jpeg)
+
+[Back to top](#contents).
 
 5/27/2023
 
@@ -101,6 +113,8 @@ Actual input: `Pear`.
 
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112177401879863316/7DDCFE35-13BB-42C8-82BD-8D5C6CE8FE6A.jpeg)
 
+[Back to top](#contents).
+
 5/27/2023
 
 ## The Cut
@@ -112,6 +126,8 @@ Actual input: `Pear`.
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112172902096306236/6F848BD2-39DC-4CA6-B03D-F984E4759F01.jpeg)
 
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112172902465413140/DD8D9B59-6426-49AD-83C3-1109E29E6CCE.jpeg)
+
+[Back to top](#contents).
 
 5/27/2023
 
@@ -125,6 +141,8 @@ Actual input: `Pear`.
 
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112171344277278721/D690C124-9006-4B0A-A5DD-F623CB0D01D4.jpeg)
 
+[Back to top](#contents).
+
 5/27/2023
 
 ## Expressionism v2
@@ -137,6 +155,8 @@ Actual input: `Pear`.
 
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112183231756902460/1C7E0162-140C-4E80-A79A-41E038BC74A5.jpeg)
 
+[Back to top](#contents).
+
 5/27/2023
 
 ## Figure v2
@@ -147,6 +167,8 @@ Actual input: `Pear`.
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112161858078642267/BEB72C8C-C678-414D-94D1-E431715EF237.jpeg)
 
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112161858351288320/FCABE163-824B-4F78-B922-9FDCB48BF2EC.jpeg)
+
+[Back to top](#contents).
 
 5/27/2023
 
@@ -160,6 +182,8 @@ Actual input: `Pear`.
 
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112173830778134549/97FCC86A-6474-41AD-B26D-3576E07F30CD.jpeg)
 
+[Back to top](#contents).
+
 5/27/2023
 
 ## Flora v2
@@ -171,6 +195,8 @@ Actual input: `Pear`.
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112176681243918388/BCCC4D48-CDCE-4B9D-BBBC-044B5FFD0C84.jpeg)
 
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112176681562669136/A73D1A4F-2965-4CAC-AC1C-7AE63763D26A.jpeg)
+
+[Back to top](#contents).
 
 5/27/2023
 
@@ -184,6 +210,8 @@ Actual input: `Pear`.
 
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112182718348922911/CF78FC00-EADE-4D7F-84F2-13CCD4BEC19D.jpeg)
 
+[Back to top](#contents).
+
 5/27/2023
 
 ## Horror v2
@@ -195,6 +223,8 @@ Actual input: `Pear`.
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112163798007152730/7B4C8A7B-A60A-4EE6-8391-6654C5FC8762.jpeg)
 
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112163798334316615/9B869E9B-8CFC-433F-86FB-F60976C9D847.jpeg)
+
+[Back to top](#contents).
 
 5/27/2023
 
@@ -208,6 +238,8 @@ Actual input: `Pear`.
 
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112166817180418119/C7C9FD7D-9A84-4437-8AA9-8FEF8A426A73.jpeg)
 
+[Back to top](#contents).
+
 5/27/2023
 
 ## Horror Cut v2.1
@@ -219,6 +251,8 @@ Actual input: `Pear`.
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112165725881249892/A3AD880E-77DA-4ADC-B62D-A9A80B2D3702.jpeg)
 
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112165726468448317/F3312CBD-F3FA-461E-A084-D555AB811BC2.jpeg)
+
+[Back to top](#contents).
 
 5/27/2023
 
@@ -232,6 +266,8 @@ Actual input: `Pear`.
 
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112170301866922015/F9734E59-1701-4C23-A972-DAF304B38ED6.jpeg)
 
+[Back to top](#contents).
+
 5/27/2023
 
 ## Ink v2
@@ -243,6 +279,8 @@ Actual input: `Pear`.
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112168339003936890/291BD3C6-47DF-4BA9-95B8-1497AD131971.jpeg)
 
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112168339343687690/F525C99A-C876-4E4D-9018-894EDB66BB6D.jpeg)
+
+[Back to top](#contents).
 
 5/27/2023
 
@@ -259,6 +297,8 @@ Actual input: `Pear`.
 
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112180107898007632/CBCF4BB3-6FC1-488B-A14E-FFFA054FB0D8.jpeg)
 
+[Back to top](#contents).
+
 5/27/2023
 
 ## Poster Art
@@ -270,6 +310,8 @@ Actual input: `Pear`.
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112167684386344960/344D2C89-8154-4615-9DF8-7DDC18FC38B6.jpeg)
 
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112167684700913786/8F927D73-CB5F-4FE7-AE99-C12B7ED20BF6.jpeg)
+
+[Back to top](#contents).
 
 5/27/2023
 
@@ -283,6 +325,8 @@ Actual input: `Pear`.
 
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112162936446791750/32EC624C-586E-47BC-B471-1379C38286B2.jpeg)
 
+[Back to top](#contents).
+
 5/27/2023
 
 ## Rorschach v2
@@ -294,6 +338,8 @@ Actual input: `Pear`.
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112181996639232000/EFC3040B-CDC2-49DB-B196-AD9F1EB0E51D.jpeg)
 
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112181996957995069/0402E0B5-DD3F-4540-B064-67CF7C008767.jpeg)
+
+[Back to top](#contents).
 
 5/27/2023
 
@@ -307,6 +353,8 @@ Actual input: `Pear`.
 
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112174419780063262/79C3F6E9-5AED-458A-9291-A40F88E9454D.jpeg)
 
+[Back to top](#contents).
+
 5/27/2023
 
 ## Spring v2
@@ -318,6 +366,8 @@ Actual input: `Pear`.
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112175147042996265/0CB01D5B-0ED0-42AF-A89F-04CD30CD9E73.jpeg)
 
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112175147361775666/6B1906BF-AFD2-48CF-B601-F090A9824E69.jpeg)
+
+[Back to top](#contents).
 
 5/27/2023
 
@@ -331,6 +381,8 @@ Actual input: `Pear`.
 
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112181456287043634/B4FC82C4-2AEA-4C25-8E60-9DFFFD3D65DE.jpeg)
 
+[Back to top](#contents).
+
 5/27/2023
 
 ## Vector v2
@@ -342,6 +394,8 @@ Actual input: `Pear`.
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112179237806416042/008472BB-959E-4C7A-A10A-AF23D146158D.jpeg)
 
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112179238209064960/21BD8BAC-FBE9-4C3F-BDFC-B4C08D815298.jpeg)
+
+[Back to top](#contents).
 
 5/27/2023
 
@@ -355,6 +409,8 @@ Actual input: `Pear`.
 
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112164658799972413/DADACCAB-23C6-40ED-8B23-F638854D4FDC.jpeg)
 
+[Back to top](#contents).
+
 5/27/2023
 
 ## Watercolor v2
@@ -366,5 +422,7 @@ Actual input: `Pear`.
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112178461407182919/16D257E9-BAC8-4686-953A-4EB4A4BF9E87.jpeg)
 
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112178461801451550/BDA7841D-B3D6-4E30-8467-95373E8FC0A5.jpeg)
+
+[Back to top](#contents).
 
 5/27/2023

@@ -1,6 +1,6 @@
 [Home](../README.md) > [Pear Examples](./Terms.md)
 
-Pear images to `PROMPT`.
+Pear images for `PROMPT`.
 
 Actual input: `Pear` + PROMPT.
 
@@ -172,7 +172,7 @@ DATE
 
 DATE
 
-## Gloomy
+## Flora v2
 
 ![]()
 
@@ -184,9 +184,9 @@ DATE
 
 [Back to top](#contents).
 
-5/27/2023
+DATE
 
-## Flora v2
+## Gloomy
 
 ![]()
 

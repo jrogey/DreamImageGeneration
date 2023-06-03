@@ -361,7 +361,7 @@ Actual input: `Pear, intricate`.
 
 ## Spectral v2
 
-![]https://cdn.discordapp.com/attachments/1112156813492752404/1114388966284730419/E05D7C5E-5679-4C0E-BFBA-1C4DD51E856A.jpeg)
+![](https://cdn.discordapp.com/attachments/1112156813492752404/1114388966284730419/E05D7C5E-5679-4C0E-BFBA-1C4DD51E856A.jpeg)
 
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1114388966578323536/F12EC891-E87F-4B2A-86C9-A6BA5CFE9BEE.jpeg)
 
@@ -377,7 +377,7 @@ Actual input: `Pear, intricate`.
 
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1114389468959490138/459BB7D0-3D4D-4098-A8A5-9BADC5706E23.jpeg)
 
-![]https://cdn.discordapp.com/attachments/1112156813492752404/1114389469332774912/6BEABA60-5F0C-4500-A2A6-2515314D53D5.jpeg)
+![](https://cdn.discordapp.com/attachments/1112156813492752404/1114389469332774912/6BEABA60-5F0C-4500-A2A6-2515314D53D5.jpeg)
 
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1114389469634773084/194F90DC-8B18-44F8-8100-F3200CAF78E1.jpeg)
 

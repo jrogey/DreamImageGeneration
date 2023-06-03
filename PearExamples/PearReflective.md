@@ -7,6 +7,7 @@ Actual input: `Pear, reflective`.
 ## Contents
 
 - [Abstract Fluid v2](#abstract-fluid-v2)
+- [The Absurd v2]()
 - [Anime v2](#anime-v2)
 - [Blues v2](#blues-v2)
 - [The Bulio Cut](#the-bulio-cut)
@@ -47,6 +48,18 @@ Actual input: `Pear, reflective`.
 [Back to top](#contents).
 
 5/27/2023
+
+## The Absurd v2
+
+![](https://cdn.discordapp.com/attachments/1112156813492752404/1114347307765342240/C4E2768E-3569-4DDB-8AA8-03B772E689EB.jpeg)
+
+![](https://cdn.discordapp.com/attachments/1112156813492752404/1114347308084113418/24D123F3-E1BB-42D4-AA72-44285350D3F6.jpeg)
+
+![](https://cdn.discordapp.com/attachments/1112156813492752404/1114347308339953797/94F4C4DE-6E16-4081-B7B3-B8B3DF877F23.jpeg)
+
+![](https://cdn.discordapp.com/attachments/1112156813492752404/1114347308709064714/D8AC5284-8A4A-4D5B-9669-4DC0B8172882.jpeg)
+
+6/2/2023
 
 ## Anime v2
 

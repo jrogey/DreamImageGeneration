@@ -7,6 +7,7 @@ Actual input: `Pear` + PROMPT.
 ## Contents
 
 - [Abstract Fluid v2](#abstract-fluid-v2)
+- [The Absurd v2](#the-absurd-v2)
 - [Anime v2](#anime-v2)
 - [Blues v2](#blues-v2)
 - [The Bulio Cut](#the-bulio-cut)
@@ -45,6 +46,18 @@ Actual input: `Pear` + PROMPT.
 ![]()
 
 [Back to top](#contents).
+
+DATE
+
+## The Absurd v2
+
+![]()
+
+![]()
+
+![]()
+
+![]()
 
 DATE
 

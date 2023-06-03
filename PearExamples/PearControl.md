@@ -7,6 +7,7 @@ Actual input: `Pear`.
 ## Contents
 
 - [Abstract Fluid v2](#abstract-fluid-v2)
+- [The Absurd v2](#the-absurd-v2)
 - [Anime v2](#anime-v2)
 - [Blues v2](#blues-v2)
 - [The Bulio Cut](#the-bulio-cut)
@@ -47,6 +48,18 @@ Actual input: `Pear`.
 [Back to top](#contents).
 
 5/27/2023
+
+## The Absurd v2
+
+![](https://cdn.discordapp.com/attachments/1112156813492752404/1114345416075509891/1E4A865B-0A09-40AF-93CB-65308A7270D7.jpeg)
+
+![](https://cdn.discordapp.com/attachments/1112156813492752404/1114345416335564830/D967B16E-784D-4499-9A63-4E4DA5928ACA.jpeg)
+
+![](https://cdn.discordapp.com/attachments/1112156813492752404/1114345416587231303/91C4CC68-F12F-42D2-BEAE-3D134C1E8E00.jpeg)
+
+![](https://cdn.discordapp.com/attachments/1112156813492752404/1114345416817901658/7F5B4FD2-9BB0-4030-9B55-CE54D0C071EA.jpeg)
+
+6/2/2023
 
 ## Anime v2
 

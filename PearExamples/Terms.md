@@ -8,3 +8,4 @@ Terms to see how the AI reacts to various inputs.
 - [Majestic](./PearMajestic.md)
 - [Realistic](./PearRealistic.md)
 - [Reflective](./PearReflective.md)
+- [Tiltshift](./PearTiltshift.md)

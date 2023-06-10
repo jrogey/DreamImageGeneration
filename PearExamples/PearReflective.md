@@ -26,6 +26,7 @@ Actual input: `Pear, reflective`.
 - [Illustrated v2](#illustrated-v2)
 - [Ink v2](#ink-v2)
 - [Item v2](#item-v2)
+- [Nightly v2](#nightly-v2)
 - [Poster Art](#poster-art)
 - [Realistic v2](#realistic-v2)
 - [Rorschach v2](#rorschach-v2)
@@ -310,11 +311,25 @@ Actual input: `Pear, reflective`.
 ![](https://cdn.discordapp.com/attachments/1112156813492752404/1112204824247812147/2AB6029D-F0CA-4BB0-93BB-083C831703B8.jpeg)
 
 
-![]https://cdn.discordapp.com/attachments/1112156813492752404/1112204824629485678/45C821AD-F6D3-4ABA-A59C-2885035CC41E.jpeg)
+![](https://cdn.discordapp.com/attachments/1112156813492752404/1112204824629485678/45C821AD-F6D3-4ABA-A59C-2885035CC41E.jpeg)
 
 [Back to top](#contents).
 
 5/27/2023
+
+## Nightly v2
+
+![](https://media.discordapp.net/attachments/1112156813492752404/1116923880888598538/822619DF-63D3-4EDE-9038-9EF6E1EC97C1.jpeg?width=905&height=509)
+
+![](https://media.discordapp.net/attachments/1112156813492752404/1116923881161244702/0F99265C-1B4D-4049-BCFE-E0DCB7F6DAEB.jpeg?width=905&height=509)
+
+![](https://media.discordapp.net/attachments/1112156813492752404/1116923881433866292/C09C9A5B-D1B6-4CBE-8341-9A369C729F64.jpeg?width=905&height=509)
+
+![](https://media.discordapp.net/attachments/1112156813492752404/1116923881735847976/2F59F3B8-6DDF-471A-BDDC-F73AFCDEB847.jpeg?width=905&height=509)
+
+[Back to top](#contents).
+
+6/9/2023
 
 ## Poster Art
 

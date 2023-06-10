@@ -26,6 +26,7 @@ Actual input: `Pear` + PROMPT.
 - [Illustrated v2](#illustrated-v2)
 - [Ink v2](#ink-v2)
 - [Item v2](#item-v2)
+- [Nightly v2](#nightly-v2)
 - [Poster Art](#poster-art)
 - [Realistic v2](#realistic-v2)
 - [Rorschach v2](#rorschach-v2)
@@ -287,6 +288,20 @@ DATE
 DATE
 
 ## Ink v2
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+[Back to top](#contents).
+
+DATE
+
+## Nightly v2
 
 ![]()
 

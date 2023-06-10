@@ -26,6 +26,7 @@ Actual input: `Pear, realistic`.
 - [Illustrated v2](#illustrated-v2)
 - [Ink v2](#ink-v2)
 - [Item v2](#item-v2)
+- [Nightly v2](#nightly-v2)
 - [Poster Art](#poster-art)
 - [Realistic v2](#realistic-v2)
 - [Rorschach v2](#rorschach-v2)
@@ -316,6 +317,20 @@ Actual input: `Pear, realistic`.
 [Back to top](#contents).
 
 6/2/2023
+
+## Nightly v2
+
+![](https://media.discordapp.net/attachments/1112156813492752404/1116922874607964211/182D738D-82D6-4F0F-8DB7-2FFAF2DAD456.jpeg?width=905&height=509)
+
+![](https://media.discordapp.net/attachments/1112156813492752404/1116922874905776148/F149E5B1-49F3-4E22-9B70-C90FA1388CFD.jpeg?width=905&height=509)
+
+![](https://media.discordapp.net/attachments/1112156813492752404/1116922875241304124/4451B46D-6314-4652-BB1D-36F6ACB71FDA.jpeg?width=905&height=509)
+
+![](https://media.discordapp.net/attachments/1112156813492752404/1116922875551698964/B88FDA6A-8EA9-442F-B777-DC6E59B51598.jpeg?width=905&height=509)
+
+[Back to top](#contents).
+
+6/9/2023
 
 ## Poster Art
 

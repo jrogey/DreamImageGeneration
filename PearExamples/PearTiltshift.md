@@ -26,6 +26,7 @@ Actual input: `Pear, tiltshift`.
 - [Illustrated v2](#illustrated-v2)
 - [Ink v2](#ink-v2)
 - [Item v2](#item-v2)
+- [Nightly v2](#nightly-v2)
 - [Poster Art](#poster-art)
 - [Realistic v2](#realistic-v2)
 - [Rorschach v2](#rorschach-v2)
@@ -316,6 +317,20 @@ Actual input: `Pear, tiltshift`.
 [Back to top](#contents).
 
 6/4/2023
+
+## Nightly v2
+
+![](https://media.discordapp.net/attachments/1112156813492752404/1116925020137066537/15C24C29-371F-469F-8ACA-54AF57FDE8A8.jpeg?width=905&height=509)
+
+![](https://media.discordapp.net/attachments/1112156813492752404/1116925020468432936/D0548597-28D2-41BB-873C-0AF4C2D790FD.jpeg?width=905&height=509)
+
+![](https://media.discordapp.net/attachments/1112156813492752404/1116925020720087140/DA9B2D2A-677C-4F55-AC1A-F778210DB2DD.jpeg?width=905&height=509)
+
+![](https://media.discordapp.net/attachments/1112156813492752404/1116925021034647572/67FE2C8D-1C78-46DA-A285-B2037FD3E1AE.jpeg?width=905&height=509)
+
+[Back to top](#contents).
+
+6/9/2023
 
 ## Poster Art
 

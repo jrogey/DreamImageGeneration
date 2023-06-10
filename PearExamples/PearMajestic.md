@@ -26,6 +26,7 @@ Actual input: `Pear, majestic`.
 - [Illustrated v2](#illustrated-v2)
 - [Ink v2](#ink-v2)
 - [Item v2](#item-v2)
+- [Nightly v2](#nightly-v2)
 - [Poster Art](#poster-art)
 - [Realistic v2](#realistic-v2)
 - [Rorschach v2](#rorschach-v2)
@@ -316,6 +317,20 @@ DATE
 [Back to top](#contents).
 
 5/27/2023
+
+## Nightly v2
+
+![](https://media.discordapp.net/attachments/1112156813492752404/1116921532061585409/6033DF9A-4200-4955-AF64-559030ED992B.jpeg?width=905&height=509)
+
+![](https://media.discordapp.net/attachments/1112156813492752404/1116921532401332284/3FCE6CFB-3F34-40A3-B067-5E506F4561C1.jpeg?width=905&height=509)
+
+![](https://media.discordapp.net/attachments/1112156813492752404/1116921532699136050/5ECBBAA6-F8F7-4BD1-B649-14052E82A049.jpeg?width=905&height=509)
+
+![](https://media.discordapp.net/attachments/1112156813492752404/1116921532967555182/B16674CF-99A4-45C8-BBAD-704040B870E2.jpeg?width=905&height=509)
+
+[Back to top](#contents).
+
+6/9/2023
 
 ## Poster Art
 

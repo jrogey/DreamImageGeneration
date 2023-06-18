@@ -32,6 +32,7 @@ Actual input: `Pear` + PROMPT.
 - [Rorschach v2](#rorschach-v2)
 - [Spectral v2](#spectral-v2)
 - [Spring v2](#spring-v2)
+- [Steampunk v2](#steampunk-v2)
 - [Unrealistic v2](#unrealistic-v2)
 - [vfx v2](#vfx-v2)
 - [Watercolor v2](#watercolor-v2)
@@ -389,6 +390,20 @@ DATE
 DATE
 
 ## Spring v2
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+[Back to top](#contents).
+
+DATE
+
+## Steampunk v2
 
 ![]()
 

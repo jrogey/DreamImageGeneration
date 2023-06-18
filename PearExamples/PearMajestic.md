@@ -32,6 +32,7 @@ Actual input: `Pear, majestic`.
 - [Rorschach v2](#rorschach-v2)
 - [Spectral v2](#spectral-v2)
 - [Spring v2](#spring-v2)
+- [Steampunk v2](#steampunk-v2)
 - [Unrealistic v2](#unrealistic-v2)
 - [vfx v2](#vfx-v2)
 - [Watercolor v2](#watercolor-v2)
@@ -401,6 +402,20 @@ DATE
 [Back to top](#contents).
 
 5/27/2023
+
+## Steampunk v2
+
+![](https://cdn.discordapp.com/attachments/1112156813492752404/1119812843928297572/8101C4AC-341E-43AE-B849-CE0DADC12D73.jpeg)
+
+![](https://cdn.discordapp.com/attachments/1112156813492752404/1119812844226089010/FA309A02-0779-4AFA-9CE5-658BA3A7DB4D.jpeg)
+
+![](https://cdn.discordapp.com/attachments/1112156813492752404/1119812844549046385/64603849-5005-489C-A135-E02A246EF6DD.jpeg)
+
+![](https://cdn.discordapp.com/attachments/1112156813492752404/1119812844825878718/7097FEAE-762B-4164-83FE-42EA92E8F983.jpeg)
+
+[Back to top](#contents).
+
+6/17/2023
 
 ## Unrealistic v2
 
